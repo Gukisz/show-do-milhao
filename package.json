@@ -1,0 +1,20 @@
+{
+  "name": "show-do-milhao",
+  "version": "1.0.0",
+  "description": "Jogo de perguntas e respostas estilo Show do Milhão, executado no terminal com Node.js.",
+  "main": "jogo.js",
+  "scripts": {
+    "start": "node jogo.js"
+  },
+  "keywords": [
+    "show-do-milhao",
+    "jogo",
+    "terminal",
+    "javascript",
+    "node"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
+
