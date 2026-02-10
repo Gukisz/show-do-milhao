@@ -1,8 +1,4 @@
-## Show do Javão – O Desafio dos Mil Bytes
-
-### Autor
-
-- Seu Nome Aqui
+## Show do Milhão – O Desafio dos Mil Bytes
 
 ### Descrição
 
